@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JS Курс.iml" filepath="$PROJECT_DIR$/JS Курс.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_semi/Java_semi.iml" filepath="$PROJECT_DIR$/Java_semi/Java_semi.iml" />
+    </modules>
+  </component>
+</project>
