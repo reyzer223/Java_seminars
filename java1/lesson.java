@@ -1,4 +1,4 @@
-package java;
+package java1;
 /**
  * 1 lesson
  */
